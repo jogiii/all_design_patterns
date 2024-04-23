@@ -1,7 +1,6 @@
-package com.design.patterns.creational.strategy.problem;
+package com.design.patterns.behavioural.strategy.problem;
 
-public class GoodsVehicle extends  Vehicle{
-
+public class SportsVehicle extends Vehicle{
     @Override
     public void engine() {
         System.out.println("Sports engine");
@@ -11,6 +10,4 @@ public class GoodsVehicle extends  Vehicle{
     public void drive() {
         System.out.println("Sports drive");
     }
-
-
 }

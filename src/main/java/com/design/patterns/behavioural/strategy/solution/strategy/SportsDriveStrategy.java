@@ -1,4 +1,4 @@
-package com.design.patterns.creational.strategy.solution.strategy;
+package com.design.patterns.behavioural.strategy.solution.strategy;
 
 public class SportsDriveStrategy implements DriveStrategy{
     @Override

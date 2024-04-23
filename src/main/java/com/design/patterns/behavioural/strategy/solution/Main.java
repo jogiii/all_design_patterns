@@ -1,6 +1,5 @@
-package com.design.patterns.creational.strategy.solution;
+package com.design.patterns.behavioural.strategy.solution;
 
-import com.design.patterns.creational.strategy.solution.strategy.SportsDriveStrategy;
 
 public class Main {
 
