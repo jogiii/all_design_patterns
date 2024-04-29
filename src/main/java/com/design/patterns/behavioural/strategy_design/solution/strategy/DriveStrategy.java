@@ -1,4 +1,4 @@
-package com.design.patterns.behavioural.strategy.solution.strategy;
+package com.design.patterns.behavioural.strategy_design.solution.strategy;
 
 public interface DriveStrategy {
 

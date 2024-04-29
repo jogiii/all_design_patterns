@@ -1,6 +1,6 @@
-package com.design.patterns.behavioural.strategy.solution;
+package com.design.patterns.behavioural.strategy_design.solution;
 
-import com.design.patterns.behavioural.strategy.solution.strategy.DriveStrategy;
+import com.design.patterns.behavioural.strategy_design.solution.strategy.DriveStrategy;
 
 public class Vehicle {
 

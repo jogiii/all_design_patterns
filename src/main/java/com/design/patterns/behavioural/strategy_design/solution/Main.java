@@ -1,4 +1,5 @@
-package com.design.patterns.behavioural.strategy.problem;
+package com.design.patterns.behavioural.strategy_design.solution;
+
 
 public class Main {
 

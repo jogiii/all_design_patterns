@@ -1,4 +1,4 @@
-package com.design.patterns.behavioural.strategy.problem;
+package com.design.patterns.behavioural.strategy_design.problem;
 
 public class OffRoadVehicle extends Vehicle{
 

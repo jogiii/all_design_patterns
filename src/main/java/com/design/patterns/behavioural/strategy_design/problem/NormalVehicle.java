@@ -1,6 +1,7 @@
-package com.design.patterns.behavioural.strategy.problem;
+package com.design.patterns.behavioural.strategy_design.problem;
 
-public class SportsVehicle extends Vehicle{
+public class NormalVehicle extends Vehicle{
+
     @Override
     public void engine() {
         System.out.println("Sports engine");
